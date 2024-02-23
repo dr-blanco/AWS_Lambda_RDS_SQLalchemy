@@ -1,4 +1,4 @@
-# # AWS-Lambda-Python-SQLAlchemy-RDS
+# AWS-Lambda-Python-SQLAlchemy-RDS
 Simple connection to a public RDS with SQLAlchemy and Secrets Manager. NOTE this code expects that you created RDS using a secret.
 
 ## Code
